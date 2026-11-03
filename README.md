@@ -3,8 +3,8 @@
 A professional, fully responsive music player web application built with Next.js, TypeScript, and Tailwind CSS. Designed to deliver a seamless and modern audio streaming experience with interactive visual elements.
 
 ## 🔗 Links & Demo
-- **Live Demo:** [View Live App](https://musicapp-two-indol.vercel.app) *(Aapka Vercel URL)*
-- **Professional CV:** [View My CV](./Navy_Theme_CV.pdf) *(Apni CV ka exact file name yahan likh dein agar zaroorat ho)*
+- **Live Demo:** [View Live App](https://musicapp-two-indol.vercel.app)
+- **GitHub Repository:** [View Source Code](https://github.com/mahnoorimtiaz582/music_app)
 
 ## ✨ Features
 - 🎵 **Play/Pause Control:** Smooth audio playback with intuitive controls.
