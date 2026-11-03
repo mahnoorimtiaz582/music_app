@@ -1,30 +1,29 @@
-# music_app
-🎵 A professional music player app with Next.js
 # 🎵 Music Player Pro
 
-A professional music player app built with Next.js, TypeScript, and Tailwind CSS.
+A professional, fully responsive music player web application built with Next.js, TypeScript, and Tailwind CSS. Designed to deliver a seamless and modern audio streaming experience with interactive visual elements.
+
+## 🔗 Links & Demo
+- **Live Demo:** [View Live App](https://musicapp-two-indol.vercel.app) *(Aapka Vercel URL)*
+- **Professional CV:** [View My CV](./Navy_Theme_CV.pdf) *(Apni CV ka exact file name yahan likh dein agar zaroorat ho)*
 
 ## ✨ Features
-- 🎵 Play/Pause music
-- 💙 Blue light animation
-- ❤️ Favorites with local storage
-- 🔍 Search songs
-- 📱 Fully responsive
+- 🎵 **Play/Pause Control:** Smooth audio playback with intuitive controls.
+- 💙 **Blue Light Animation:** Modern and immersive visual styling.
+- ❤️ **Favorites System:** Save favorite tracks using local storage.
+- 🔍 **Search Functionality:** Quickly find and filter songs.
+- 📱 **Fully Responsive:** Optimized for both mobile and desktop screens.
 
 ## 🛠️ Tech Stack
-- Next.js 16
-- TypeScript
-- Tailwind CSS
-- Lucide React Icons
+- **Framework:** Next.js 16
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React Icons
+- **Deployment:** Vercel
 
-## 🚀 How to Run
-```bash
-npm install
-npm run dev
+## 🚀 How to Run Locally
 
+To run this project on your local machine, follow these simple steps:
 
-Open http://localhost:3000
-
-
-👩‍💻 Author
-Mahnoor Imtiaz
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/mahnoorimtiaz582/music_app.git](https://github.com/mahnoorimtiaz582/music_app.git)
